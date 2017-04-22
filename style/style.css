@@ -1,0 +1,50 @@
+.wrapper {
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+
+.hero-section {
+	overflow: hidden;
+	text-align: center;
+	font-size: 18px;
+}
+
+.rome {
+	border: 1px solid #080606;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+    background-color: #f2f5f7;
+    font-family: arial;
+}
+
+h1 {font-size: 36px;
+	font-style: bold;
+}
+
+h2 {font-size: 18px;
+	}
+
+p  {font-size: 14px;
+	padding: 0px 34px;
+}
+
+.hr {border-bottom: 1px  solid #c7c5c4;
+padding: 24px 0px;
+
+ }
+
+ul {border-bottom: 1px  solid #c7c5c4;
+padding: 24px 34px;
+}
+
+.FB {border-bottom: 1px  solid #c7c5c4;
+padding: 24px 0px;
+}
+
+.profile  {font-size: 14px;
+	padding: 0px 34px;
+}
